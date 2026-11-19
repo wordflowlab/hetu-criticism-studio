@@ -1,0 +1,24 @@
+{
+  "retrieved_on": "2026-11-19",
+  "pages": [
+    {
+      "name": "LiquidText",
+      "url": "https://www.liquidtext.net/",
+      "status": "200",
+      "exit_code": 0,
+      "sha256": "ff8971c74c497b869b2f3f14835d9e7d9ec288c75c66429d8fc5dd30751ea2c3",
+      "title": "LiquidText - &quot;PDF Editor with Superpowers&quot; FastCompany",
+      "scope": "公开页面；未登录、未执行产品业务"
+    },
+    {
+      "name": "MarginNote",
+      "url": "https://www.marginnote.com/",
+      "status": "200",
+      "exit_code": 0,
+      "sha256": "899c821388cbc897e973a04c86d83fd0eeeb7e67729312c360866d1253f6d627",
+      "title": "MarginNote 5 · Read, connect and review",
+      "scope": "公开页面；未登录、未执行产品业务"
+    }
+  ],
+  "limits": "可访问页面不等于已体验产品；HTTP失败保留原状态。"
+}

@@ -1,0 +1,70 @@
+{
+  "retrieved_on": "2026-11-19",
+  "sources": [
+    {
+      "repository": "https://github.com/recogito/text-annotator-js",
+      "commit": "0d375b0cba2bf68378f1f6dff30ee8812df95c0c",
+      "license": "BSD-3-Clause",
+      "files": [
+        {
+          "path": "README.md",
+          "sha256": "acf717934184b82edc9430529380a24b3d1762fc32572cb7580254773bc3815f",
+          "read_lines": [
+            1,
+            100
+          ]
+        },
+        {
+          "path": "LICENSE",
+          "sha256": "3ae9fe44013f55ecbb4732180061c6e5ada08e5bb493967cec2c03cd19a6626a",
+          "read_lines": [
+            1,
+            28
+          ]
+        },
+        {
+          "path": "packages/text-annotator/src/utils/annotation/range-to-selector.ts",
+          "sha256": "3604906ec903f93ad7ac5a44c1c965784736f41a87c4154d6208136781294901",
+          "read_lines": [
+            1,
+            29
+          ]
+        }
+      ],
+      "use": "只读研究，未运行上游脚本或复制实现"
+    },
+    {
+      "repository": "https://github.com/w3c/web-annotation",
+      "commit": "74992e5d3ca3ac10b3289f6c855c876cc9b024a1",
+      "license": "W3C Document License",
+      "files": [
+        {
+          "path": "README.md",
+          "sha256": "b0de242f005064f9d6608d4d6cba7d746550303fba1e8c40084b8062e8a3788e",
+          "read_lines": [
+            1,
+            6
+          ]
+        },
+        {
+          "path": "LICENSE.md",
+          "sha256": "6bb0235e84e19f807f271b54459eb494742a421e1c5c36a1de702c151ecb15f3",
+          "read_lines": [
+            1,
+            2
+          ]
+        },
+        {
+          "path": "admin/TR/annotation-model/Overview.html",
+          "sha256": "8ce4f50a6fc8966088b9099f84e6f2de3901b75c1e679eaf800928093cf725cf",
+          "read_lines": [
+            2780,
+            2860
+          ]
+        }
+      ],
+      "use": "只读研究，未运行上游脚本或复制实现"
+    }
+  ],
+  "adoption": "Recogito区分选择器、目标和批注；W3C区分精确引文与位置选择器。本包借鉴语义分层，不使用DOM字符位置作为持久身份：核心引用固定作品修订及UTF-8字节，评论解释另有理由和适用范围。首版不声称Web Annotation完整导入导出兼容。"
+}
