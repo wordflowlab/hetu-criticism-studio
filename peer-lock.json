@@ -1,0 +1,8 @@
+{
+  "peer": {
+    "repository": "wordflowlab/hetu-essay-studio",
+    "commit": "c5c8d90ab714663dfcb38444a24a66423f494d3f",
+    "package_sha256": "208f8cfce3e4e5ca354083841cd24019e48ec253fab5ce90f4f554dbe7f9fa84"
+  },
+  "scope": "只属于联合验收，不成为专业包运行依赖"
+}
