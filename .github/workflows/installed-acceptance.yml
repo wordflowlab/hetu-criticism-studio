@@ -24,7 +24,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           repository: wordflowlab/hetu-essay-studio
-          ref: 5bccca664f4be7e71b56e3deab665701743a3437
+          ref: 6c0696d4880fbe421cec104760618c5742788e56
           path: hetu-essay-studio
           persist-credentials: false
       - uses: actions/setup-node@v4
