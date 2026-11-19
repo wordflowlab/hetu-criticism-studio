@@ -1,0 +1,8 @@
+{
+  "release": "https://github.com/wordflowlab/hetu-criticism-studio/releases/tag/v0.1.0",
+  "source_commit": "c87d9a68dfd22dc55edc4995379d34628c165023",
+  "archive_sha256": "bcde44aaad529b55b4970f1e06a294d1624cfa9894002a162e31b5a585ece62c",
+  "package_sha256": "067da3af7390311455908ce6191c08ea1b26662e837c922e1649b47205d90f72",
+  "files_byte_identical": 18,
+  "verified": true
+}

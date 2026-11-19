@@ -1,0 +1,58 @@
+{
+  "recorded_at": "2026-11-19",
+  "state": "deployed_and_verified",
+  "origin": "https://hetu.limeai.run",
+  "deployment": "https://d737ae82.hetu-website-3uu.pages.dev",
+  "deployed_source_commit": "128a5c2655c8d8d77582907f21144ffaf4509104",
+  "plugin_release": {
+    "schema_version": 1,
+    "plugin_id": "org.wordflowlab.criticism-studio",
+    "version": "0.1.0",
+    "source_commit": "c87d9a68dfd22dc55edc4995379d34628c165023",
+    "archive": "org.wordflowlab.criticism-studio-0.1.0.tgz",
+    "archive_sha256": "bcde44aaad529b55b4970f1e06a294d1624cfa9894002a162e31b5a585ece62c",
+    "package_sha256": "067da3af7390311455908ce6191c08ea1b26662e837c922e1649b47205d90f72",
+    "size_bytes": 107306,
+    "minimum_host_version": "0.12.6",
+    "verified_platforms": [
+      "macOS arm64"
+    ],
+    "official_host": {
+      "version": "0.12.6",
+      "git_sha": "b75293837aaa220803b9dc964ba72b8646fa7244",
+      "archive_sha256": "de012d76bb9751d6f2ed78427c6887563fcfd4455ae19717c6f65a9182700ab3"
+    },
+    "acceptance": "https://github.com/wordflowlab/hetu-criticism-studio/actions/runs/44470802996",
+    "evidence_url": "https://github.com/wordflowlab/hetu-criticism-studio/blob/c87d9a68dfd22dc55edc4995379d34628c165023/docs/research/release-acceptance.json"
+  },
+  "website_local_checks_passed": 38,
+  "website_production_checks_passed": 38,
+  "routes": [
+    {
+      "route": "/plugins/criticism-studio/",
+      "status": 200,
+      "raw_sha256": "0a979377200a585dfff056c8482db872420db68fda43083a2754f16343665b14",
+      "expected_sha256": "0a979377200a585dfff056c8482db872420db68fda43083a2754f16343665b14",
+      "observed_changes": [],
+      "matches_build": true
+    },
+    {
+      "route": "/en/plugins/criticism-studio/",
+      "status": 200,
+      "raw_sha256": "44c3f8ff95360e56480aa8de0d82c9bacad3422579d2bd17b06341fa67e963ce",
+      "expected_sha256": "44c3f8ff95360e56480aa8de0d82c9bacad3422579d2bd17b06341fa67e963ce",
+      "observed_changes": [],
+      "matches_build": true
+    },
+    {
+      "route": "/plugins/criticism-studio.png",
+      "status": 200,
+      "raw_sha256": "416dabe15b7d4bd6b3fc0ead2416f2ac829b54f35a5d456f8511acc12dbd1b67",
+      "expected_sha256": "416dabe15b7d4bd6b3fc0ead2416f2ac829b54f35a5d456f8511acc12dbd1b67",
+      "observed_changes": [],
+      "matches_build": true
+    }
+  ],
+  "scope": "两包联合专项：中英分类、身份检索、固定源码与双摘要、真实工作面375/768/1440、键盘、禁用脚本及剪贴板降级",
+  "owner_evidence": "https://github.com/limecloud/hetu/blob/main/docs/research/evidence/essay-criticism-release-2026-11-19.json"
+}
