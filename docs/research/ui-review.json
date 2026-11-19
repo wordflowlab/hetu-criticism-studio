@@ -1,0 +1,179 @@
+{
+  "recorded_at": "2026-11-19",
+  "host_version": "0.12.6",
+  "package_sha256": "067da3af7390311455908ce6191c08ea1b26662e837c922e1649b47205d90f72",
+  "basis": "最终固定包的正式macOS运行器工作面，逐页浅暗宽窄联系图及关键全尺寸画面复核；行为与计算尺寸使用独立断言。",
+  "scores": {
+    "layout": 9,
+    "spacing_alignment": 9,
+    "typography": 9,
+    "colors": 9,
+    "control_states": 9,
+    "interaction": 9
+  },
+  "geometry": [
+    {
+      "theme": "light",
+      "width": 1360,
+      "header_height": 58.09375,
+      "reading_top": 273.375
+    },
+    {
+      "theme": "light",
+      "width": 760,
+      "header_height": 58.09375,
+      "reading_top": 273.375
+    },
+    {
+      "theme": "dark",
+      "width": 1360,
+      "header_height": 58.09375,
+      "reading_top": 273.375
+    },
+    {
+      "theme": "dark",
+      "width": 760,
+      "header_height": 58.09375,
+      "reading_top": 273.375
+    }
+  ],
+  "observations": [
+    "紧凑独立工作面，目标按需展开，页头低于72px；散文正文起始约321px、评论约273px，340px上限保持。",
+    "阅读纸面和主要依据分组清楚，复杂编辑渐进展开；窄窗顺序重排，完整长页没有横向溢出。",
+    "最多四档字号、最小12px、细边框、键盘焦点、浅暗语义色与连续静止渐变。",
+    "减少透明度降级、具体目标意见、局部备选、过期依据复核、原字节导出、取消、CAS保留与关闭恢复通过。",
+    "后台检查按固定内容复用，明确刷新可重试，旧请求不能覆盖新修订；原操作反馈独立。",
+    "所有31幅工作面纳入检查，桌面关键文本与窄窗长页单独复核。"
+  ],
+  "limits": [
+    "评分是本轮规范下有画面及行为支持的设计判断，不是自动像素认证。",
+    "原生窗口材质、系统输入法和Windows/Linux专业实机未由这些工作面证明。",
+    "本机Computer Use原生管道未启动；实际Electron与独立运行器验收分别保留。"
+  ],
+  "files": [
+    {
+      "file": "evidence/work-surfaces/dark-1360-view-0.png",
+      "sha256": "740a6abc5b7c0bbeb2ae164d80135ec0bd15322a1aa825c1a82f7ae8cf56c365"
+    },
+    {
+      "file": "evidence/work-surfaces/dark-1360-view-1.png",
+      "sha256": "bd5f3a4afee3a5ddf2a0f2307716a916713a9690577bc15923ce61a31ba2b214"
+    },
+    {
+      "file": "evidence/work-surfaces/dark-1360-view-2.png",
+      "sha256": "c4fb224a610110056171227716bf8580885f282e9f6e50a96bd253f0c77c1f22"
+    },
+    {
+      "file": "evidence/work-surfaces/dark-1360-view-3.png",
+      "sha256": "c2cf2cdad33233941abc54a14b9b13ecb8b1c99e1a8e737aec002903c6d3195e"
+    },
+    {
+      "file": "evidence/work-surfaces/dark-1360-view-4.png",
+      "sha256": "e7d40445c4549f8ddbc53707fa969c7661642f1e0464a311f71fc4e237978e70"
+    },
+    {
+      "file": "evidence/work-surfaces/dark-1360.png",
+      "sha256": "3fa0aefa8968ac9c24349e9298a3d149326a5675fcd9e26f52c2815825d5623f"
+    },
+    {
+      "file": "evidence/work-surfaces/dark-760-view-0.png",
+      "sha256": "f2ac0f20708b0042e28d73807b16d22f3ae2bcfb97e42599e4d6e207795bbb5b"
+    },
+    {
+      "file": "evidence/work-surfaces/dark-760-view-1.png",
+      "sha256": "eb9f971ef9daacaad08e2a023d1d13a8e6303706b6fc9a8d3f18738e85f8fbe0"
+    },
+    {
+      "file": "evidence/work-surfaces/dark-760-view-2.png",
+      "sha256": "77bead7fe558e6cae9f993509c86a8100d71e4d968ae541e89b96a6274256a5d"
+    },
+    {
+      "file": "evidence/work-surfaces/dark-760-view-3.png",
+      "sha256": "ea87c9c8f5c32c5c10c9ed9fe12939486ff9c4f8dafa69f24f5a82d8a4dc2089"
+    },
+    {
+      "file": "evidence/work-surfaces/dark-760-view-4.png",
+      "sha256": "fd0ec835d9dae493577a803d25852781a62251686b577597c29d28f5bb0417c1"
+    },
+    {
+      "file": "evidence/work-surfaces/dark-760.png",
+      "sha256": "99b428a3669eda0d524833cf5422a063caa3cd0437a1c6890ff9558e0367dd66"
+    },
+    {
+      "file": "evidence/work-surfaces/empty.png",
+      "sha256": "c36db75e0772ac13e57efa367d1098f8944216b456e53a845d8fda5059fbe89b"
+    },
+    {
+      "file": "evidence/work-surfaces/light-1360-view-0.png",
+      "sha256": "416dabe15b7d4bd6b3fc0ead2416f2ac829b54f35a5d456f8511acc12dbd1b67"
+    },
+    {
+      "file": "evidence/work-surfaces/light-1360-view-1.png",
+      "sha256": "d5f0f3110f3fdf38b5077d34249a7552fe75860d122a1b4cfad6f7dc8874187a"
+    },
+    {
+      "file": "evidence/work-surfaces/light-1360-view-2.png",
+      "sha256": "65fd357a420e3dc723b4aa813098d3ed4760c33087ebe9acf6d8477b5ff788bf"
+    },
+    {
+      "file": "evidence/work-surfaces/light-1360-view-3.png",
+      "sha256": "9394e2db34fd5f76bdc8763881573aec960b64a47e2ec20aa597b5cc2ecf64e8"
+    },
+    {
+      "file": "evidence/work-surfaces/light-1360-view-4.png",
+      "sha256": "fd15e7f2ee3b6c14d5e19456a6306e6267083e821891db744f4689df22517c14"
+    },
+    {
+      "file": "evidence/work-surfaces/light-1360.png",
+      "sha256": "8873803b1a8f4e4cc5d4e429a166974143f84f3720148152554fcdd9fae4b0a7"
+    },
+    {
+      "file": "evidence/work-surfaces/light-760-view-0.png",
+      "sha256": "3556d8e4c0059e7fb0f9dbdc7d7bc13985a68691f4cdc7d6a609810b2b7a2140"
+    },
+    {
+      "file": "evidence/work-surfaces/light-760-view-1.png",
+      "sha256": "491c92c0f98d66894e8eafef6477a2fdca5b303f48b816bd540ce849a9074187"
+    },
+    {
+      "file": "evidence/work-surfaces/light-760-view-2.png",
+      "sha256": "d74d9ad15162bc93f0b68789f16efe0b61c1ccc4d1052409462eb0776aff70a5"
+    },
+    {
+      "file": "evidence/work-surfaces/light-760-view-3.png",
+      "sha256": "e7fb0e712d8d6438f90ca36f7f0280c39694682654f7739ffb66ba61f2aca578"
+    },
+    {
+      "file": "evidence/work-surfaces/light-760-view-4.png",
+      "sha256": "cba344c51caeb0a18eafcfc94275bb7fd358ad30e68812e2f331967c1c0ba2c9"
+    },
+    {
+      "file": "evidence/work-surfaces/light-760.png",
+      "sha256": "94d78a5144249e432c76e8be0a7ec73d7f4b6bbfec93930c09f9b964fc69b3a5"
+    },
+    {
+      "file": "evidence/work-surfaces/reduced-transparency.png",
+      "sha256": "7449378747f789ba3c76371ac7c307ffcf53cd04b7504c3bef910da95c3f75e3"
+    },
+    {
+      "file": "evidence/work-surfaces/view-0.png",
+      "sha256": "5dc9f58a8905826c8811af64be9524c3855bddec379180298beb8aa514bf550c"
+    },
+    {
+      "file": "evidence/work-surfaces/view-1.png",
+      "sha256": "c8a345177efb720f79702b1a8d835d266bba449f0afc61cef7ed4e586c926640"
+    },
+    {
+      "file": "evidence/work-surfaces/view-2.png",
+      "sha256": "2cb4156a4ac497f682569486ff589a18abbbf5073e52e2c66e56d071e6edd202"
+    },
+    {
+      "file": "evidence/work-surfaces/view-3.png",
+      "sha256": "9dc18ca2b902dfb7e06d889ffc80516f6143b5593e0cf5642f3bb855e4a561f0"
+    },
+    {
+      "file": "evidence/work-surfaces/view-4.png",
+      "sha256": "7c9489a73dffc47e3f78cd9c8992419feb39d06a7f62252fa4930a725b50fd2b"
+    }
+  ]
+}

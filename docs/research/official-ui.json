@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-19T06:21:13.240Z",
+  "plugin_id": "org.wordflowlab.criticism-studio",
+  "package_sha256": "067da3af7390311455908ce6191c08ea1b26662e837c922e1649b47205d90f72",
+  "host_version": "hetu 0.12.6",
+  "surface_origin": "fixed-packaged-host",
+  "platform": "darwin",
+  "architecture": "arm64",
+  "tabs": [
+    "评论阅读",
+    "引文细读",
+    "解释与论证",
+    "备选与复核",
+    "评论交付"
+  ],
+  "geometry": [
+    {
+      "theme": "light",
+      "width": 1360,
+      "header_height": 58.09375,
+      "reading_top": 273.375
+    },
+    {
+      "theme": "light",
+      "width": 760,
+      "header_height": 58.09375,
+      "reading_top": 273.375
+    },
+    {
+      "theme": "dark",
+      "width": 1360,
+      "header_height": 58.09375,
+      "reading_top": 273.375
+    },
+    {
+      "theme": "dark",
+      "width": 760,
+      "header_height": 58.09375,
+      "reading_top": 273.375
+    }
+  ],
+  "empty_state": true,
+  "professional_actions": true,
+  "artifact_files": [
+    "文学评论.txt",
+    "文学评论审核本.html"
+  ],
+  "themes": [
+    "light",
+    "dark"
+  ],
+  "widths": [
+    1360,
+    760
+  ],
+  "reduced_transparency": true,
+  "CAS_preserves_input": true,
+  "explicit_rebase": true,
+  "close_reopen": true,
+  "dirty_buffer_restore": true,
+  "page_errors": [],
+  "limits": [
+    "原生窗口材质、系统输入法及Windows/Linux未由本测试证明"
+  ]
+}
